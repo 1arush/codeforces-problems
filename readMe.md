@@ -1,2 +1,2 @@
 # codeforces
-Contains the codes of solved probelms
+Contains the codes of solved problems
