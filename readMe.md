@@ -1,5 +1,5 @@
 # codeforces-atcoder
-Contains the codes of solved problems from codeforces and atcoder
+Contains the codes of some solved problems from codeforces and atcoder
 
 https://codeforces.com/profile/Anodite
 
